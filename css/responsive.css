@@ -1,0 +1,2535 @@
+@media (min-width:1920px) and (max-width:2560px) {
+
+    #ProjectAmenities .galleryImg img,
+    #ProjectAmenities .galleryImg {
+        height: 800px
+    }
+
+    .container {
+        max-width: unset;
+        width: 85%
+    }
+
+    .Overvire_txt {
+        font-size: 20px
+    }
+
+    .icon__heading {
+        font-size: 21px;
+        font-weight: 600;
+        padding-bottom: 7px
+    }
+
+    .overview_box {
+        transition: all .35s ease;
+        box-shadow: 0 1px 8px rgb(0 0 0 / .25);
+        padding: 10PX;
+        border-radius: 10px;
+        height: 212px;
+        text-align: center
+    }
+
+    .icon__txt {
+        font-size: 19px;
+        line-height: 24px
+    }
+
+    #Heartland .Heartland-lhs {
+        height: 644px;
+        overflow: hidden
+    }
+
+    #towers .towerDetails h2 {
+        color: var(--White);
+        font-size: 39px
+    }
+
+    .commonBt span {
+        padding: 13px 23px
+    }
+
+    #location .nav-tabs .nav-link {
+        padding: 20px 10px;
+        font-size: 18px;
+        width: 150px;
+        height: 200px
+    }
+
+    #location .locationList li {
+        font-size: 21px
+    }
+
+    #magical .magical_inner {
+        background-color: var(--gold);
+        padding: 30px;
+        width: 490px;
+        max-width: 100%;
+        margin-top: 71px;
+        height: 511px
+    }
+
+    .Txt_signatu {
+        font-size: 18px;
+        color: #fff;
+        margin: 5px 0
+    }
+
+    .amenity-item {
+        padding: 30px 20px
+    }
+
+    .amenity-item p {
+        font-size: 21px;
+        margin: 0
+    }
+
+    .amenity-icon img {
+        max-width: 80px;
+        width: 100%
+    }
+
+    .dev__content {
+        color: #000;
+        font-size: 22px
+    }
+
+    .infoNos p {
+        font-size: 22px;
+        font-weight: var(--font-weight-400);
+        line-height: 22px
+    }
+
+    #get-in-touch .get-in-touch-wrp .get-in-touch-RHS .login-box .user-box input:focus~label,
+    #get-in-touch .get-in-touch-wrp .get-in-touch-RHS .login-box .user-box textarea:focus~label,
+    #get-in-touch .get-in-touch-wrp .get-in-touch-RHS .login-box .user-box textarea:valid~label,
+    #get-in-touch .get-in-touch-wrp .get-in-touch-RHS .login-box .user-box input:valid~label {
+        top: -20px;
+        left: 0;
+        color: #000;
+        opacity: 1;
+        font-size: 16px
+    }
+
+    #footer .prescon img {
+        width: 120px
+    }
+
+    .bor-bottom {
+        font-size: 19px;
+        color: #fff
+    }
+
+    #footer .HeadOffice p {
+        color: var(--White);
+        font-size: 19px
+    }
+
+    #footer .HeadOffice h2 {
+        font-size: 23px
+    }
+}
+
+@media screen and (min-width:2560px) {
+    #Amenities .artfulLHS {
+        text-align: left;
+        padding-right: 30px
+    }
+
+    #iconic .image-label {
+        bottom: 500px
+    }
+
+    #magical .iconic-bg .image-label {
+        bottom: 190px;
+        right: 100px
+    }
+}
+
+@media (min-width:1600px) and (max-width:1919px) {
+
+    .common-ttle,
+    .common-ttle2 {
+        font-size: 46px;
+        font-family: 'FuturaBook !important'
+    }
+
+    .common-desc {
+        font-size: 20px
+    }
+
+    .common-cta {
+        font-size: 15px
+    }
+
+    #magical .magical_inner {
+        height: 570px
+    }
+}
+
+@media only screen and (min-width:1400px) and (max-width:1599px) {
+    #location .locationmap {
+        right: -40px
+    }
+
+    #location .locationmap .map-legrand {
+        right: 70px;
+        bottom: 100px
+    }
+
+    #location .locationmap .compass {
+        bottom: 80px
+    }
+}
+
+@media screen and (max-width:1440px) {
+
+    .common-ttle,
+    .common-ttle2 {
+        font-size: 36px
+    }
+
+    .common-desc {
+        font-size: 20px
+    }
+
+    .common-cta {
+        font-size: 15px
+    }
+
+    #nSpotlight .SpotlightSwiper {
+        padding-left: 7%
+    }
+
+    #location .nav-tabs .nav-link {
+        font-size: 14px;
+        width: 122px
+    }
+
+    #location .locationList li {
+        padding: 5px 0;
+        padding-left: 15px
+    }
+}
+
+@media only screen and (min-width:1399px) and (max-width:1699px) {
+    .locationContent {
+        margin-left: -45px
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1399px) {
+
+    .common-ttle,
+    .common-ttle2 {
+        font-size: 30px
+    }
+
+    .common-desc {
+        font-size: 20px
+    }
+
+    .common-cta {
+        font-size: 14px
+    }
+
+    #header .menu-items li {
+        list-style: none;
+        margin-left: 1.5rem
+    }
+
+    #welcome .welcome-inner {
+        padding: 50px 30px
+    }
+
+    #location .locationmap {
+        right: -130px;
+        width: 600px
+    }
+
+    #magical .iconic-bg .image-label {
+        bottom: 70px
+    }
+
+    #location .locationmap .LocationPin2 img {
+        width: 30px
+    }
+
+    #location .locationmap .LocationPin2::before {
+        bottom: -3px;
+        left: 10px
+    }
+
+    #location .locationmap .LocationPin2 {
+        top: 290px;
+        left: 222px
+    }
+
+    #location {
+        height: 815px
+    }
+
+    #location .locationmap {
+        right: 0
+    }
+
+    #location .nav-tabs .nav-link {
+        font-size: 12px;
+        width: 108px;
+        padding: 20px 8px;
+        color: #222
+    }
+
+    #location .map-lines {
+        width: 600px
+    }
+
+    #location {
+        height: 735px
+    }
+
+    #location .locationList li {
+        font-size: 15px
+    }
+
+    #location .nav-tabs .nav-link::before {
+        bottom: -1px
+    }
+
+    #get-in-touch .get-in-touch-wrp .get-in-touch-RHS .common-ttle {
+        font-size: 30px
+    }
+
+    #towers .towerDetails {
+        padding: 0 50px
+    }
+
+    #location,
+    #Heartland {
+        padding: 60px 0
+    }
+
+    #Amenities {
+        padding: 60px 0 0 0
+    }
+
+    #PrimeLocation {
+        padding-top: 100px
+    }
+
+    #banner .container .banner-Content h3,
+    #banner .container .banner-Content h4 {
+        font-size: 26px
+    }
+
+    .infoNos .nos {
+        font-size: 34px
+    }
+
+    .infoNos .nos .cr {
+        font-size: 20px
+    }
+
+    #footer .HeadOffice {
+        padding-left: 0;
+        /* transform: translate(15px, 0) */
+    }
+}
+
+@media (resolution:1.5dppx) {
+    .common-ttle {
+        font-size: 32px
+    }
+
+    p {
+        font-size: 16px
+    }
+
+    .infoNos .nos {
+        font-size: 28px
+    }
+
+    .infoNos .nosDesc {
+        font-size: 14px
+    }
+
+    #header .menu-items li {
+        list-style: none;
+        margin-left: 1.5rem
+    }
+
+    #welcome .welcome-inner .welcomeDetails .multilevelgrand h2 {
+        font-size: 16px
+    }
+
+    #welcome .welcome-inner .welcomeDetails .experienceVideo a h2 {
+        padding: 0 20px
+    }
+
+    #welcome .welcome-inner .welcomeDetails .infoNos {
+        height: 127px
+    }
+
+    #welcome .welcome-inner .welcomeDetails .experienceVideo a .experiencepix {
+        height: 274px
+    }
+
+    #location .locationmap {
+        right: 0
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.retailBox {
+        left: 261px;
+        top: 344px;
+        width: 648px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.clubhouseBox {
+        right: 318px;
+        top: 127px;
+        width: 166px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.LeisureBox {
+        right: 403px;
+        top: 162px;
+        width: 80px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.SixAcreBox {
+        right: 280px;
+        top: 66px;
+        width: 450px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox {
+        right: 110px;
+        top: 55px;
+        width: 115px
+    }
+
+    #MasterLayout {
+        height: 930px
+    }
+
+    #MasterLayout .MasterLayout-bg {
+        transform: scale(.8);
+        top: -120px
+    }
+
+    #MasterLayout .MasterLayoutList {
+        left: -350px
+    }
+
+    #banner .container .banner-Content h5 {
+        font-size: 20px
+    }
+}
+
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape) {
+    .row {
+        margin: 0
+    }
+
+    #header .menu-items li {
+        margin-left: 1.5rem
+    }
+
+    #header .navbar a {
+        font-size: 14px
+    }
+
+    .logo a img {
+        width: 120px
+    }
+
+    #header .container {
+        max-width: 1110px
+    }
+
+    #welcome .welcome-inner {
+        padding: 50px 0
+    }
+
+    #welcome .welcome-inner .welcomeDetails .multilevelgrand h2 {
+        padding: 8px;
+        font-size: 18px;
+        bottom: 30px
+    }
+
+    #welcome .welcome-inner .welcomeDetails .infoNos {
+        height: 120px
+    }
+
+    #welcome .welcome-inner .welcomeDetails .experienceVideo a .experiencepix {
+        height: 259px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.retailBox {
+        left: 164px;
+        top: 345px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox {
+        right: 10px;
+        width: 135px;
+        top: 32px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox span {
+        right: 63px;
+        bottom: 60px;
+        background-color: #51a090
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox .wellness-zone2 {
+        right: 495px;
+        top: 88px;
+        width: 236px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox .wellness-zone2 span {
+        right: 173px;
+        bottom: 90px;
+        background-color: #51a090
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox {
+        left: 221px;
+        top: 168px;
+        width: 552px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox .explorationBox1 {
+        right: 159px;
+        top: -92px;
+        width: 38px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox .explorationBox2 {
+        right: 404px;
+        top: -101px;
+        width: 28px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox .explorationBox3 {
+        right: 287px;
+        top: -55px;
+        width: 38px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox span {
+        left: 130px;
+        bottom: 90px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.clubhouseBox {
+        right: 276px;
+        top: 263px;
+        width: 187px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.clubhouseBox span {
+        right: 33px;
+        bottom: 30px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.SixAcreBox span {
+        right: 303px;
+        bottom: 140px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.SixAcreBox {
+        right: 240px;
+        top: 46px;
+        width: 531px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.LeisureBox {
+        right: 278px;
+        top: 62px;
+        width: 253px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox .wellness-zone3 {
+        right: 760px;
+        top: -75px;
+        width: 192px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox .wellness-zone3 span {
+        right: 116px;
+        bottom: 13px;
+        background-color: #51a090
+    }
+
+    #projectHilight .projectHilightList .projectHilightLCards .CardsInner {
+        height: 230px;
+        padding: 12px
+    }
+
+    #MasterLayout .MasterLayout-bg span {
+        transform: translateX(-47%);
+        display: inline-block
+    }
+
+    #MasterLayout {
+        height: 700px
+    }
+
+    #MasterLayout .container {
+        padding: 30px 0
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.LeisureBox span {
+        right: 113px;
+        bottom: 156px;
+        background-color: #47b3d5
+    }
+
+    #MasterLayout .MasterLayoutList {
+        left: -390px;
+        right: 0;
+        top: 60px
+    }
+
+    #MasterLayout .MasterLayout-bg {
+        transform: scale(.6);
+        top: -240px
+    }
+
+    #nav-Wellness {
+        background-color: #47b3d5
+    }
+
+    #nav-Leisure {
+        background-color: #51a090
+    }
+
+    #nav-Exploration {
+        background-color: #b18767
+    }
+
+    #nav-Grand {
+        background-color: #c59a5b
+    }
+
+    #header .navbar a::after {
+        color: #c59a5b
+    }
+
+    #location {
+        padding: 0 0;
+        height: auto;
+        padding-bottom: 30px
+    }
+
+    .moreInfromation-wrp .moreInfromation-rhs {
+        padding: 30px
+    }
+
+    #iconic .container {
+        padding-top: 70px
+    }
+
+    .highlightIcon span img {
+        width: 70px
+    }
+
+    #projectHilight .projectHilightList .projectHilightLCards .CardsInner p {
+        font-size: 17px
+    }
+
+    #thankyou .thankyouLeft {
+        padding: 100px 30px;
+        padding-bottom: 80px
+    }
+
+    #footer .houseofhiranandani-logo {
+        margin-top: 12px
+    }
+
+    #footer .HeadOffice {
+        text-align: left;
+        transform: translate(50px, 0)
+    }
+
+    #footer .socialLink {
+        margin: auto;
+        padding-bottom: 18px;
+        margin-top: 20px
+    }
+
+    #MasterLayout .common-ttle {
+        left: -730px;
+        top: 23px
+    }
+
+    #location .locationmap {
+        position: relative;
+        right: 0;
+        top: 0;
+        margin-bottom: 30px
+    }
+
+    #location .map-lines {
+        width: 100%
+    }
+
+    #towers .towerDetails {
+        padding: 0 0
+    }
+
+    #magical {
+        height: auto
+    }
+
+    #magical .iconic-bg {
+        position: relative
+    }
+
+    #magical .magical_inner {
+        height: auto;
+        width: 100%;
+        height: auto
+    }
+
+    #magical {
+        background-color: var(--gold)
+    }
+
+    #magical .magical_inner {
+        margin-top: 0;
+        padding: 20px
+    }
+
+    #magical .container {
+        display: block;
+        padding-top: 0
+    }
+
+    #magical .iconic-bg .image-label {
+        bottom: 20px;
+        right: 20px
+    }
+
+    #PrimeLocation .PrimeLocationCards {
+        margin-top: 100px
+    }
+
+    .infoNos .nos {
+        font-size: 26px
+    }
+
+    #banner .scroll-downs {
+        right: 50px
+    }
+
+    #header .NavRight .EnquireNow {
+        display: none
+    }
+
+    #header .hoh-logo {
+        margin-left: 0
+    }
+
+    #header .hoh-logo img {
+        width: 160px
+    }
+
+    #banner .container .banner-Content h5 {
+        font-size: 21px
+    }
+
+    #location .mobilemap {
+        margin-bottom: 30px
+    }
+
+    #Amenities {
+        padding: 40px 0
+    }
+
+    #Amenities .artfulLHS {
+        padding-left: 30px;
+        margin-bottom: 30px
+    }
+
+    #banner {
+        background-color: var(--brown)
+    }
+
+    #banner::before {
+        opacity: .7
+    }
+
+    #header {
+        top: 0
+    }
+
+    #banner .marsk-layer {
+        display: none
+    }
+
+    #banner .belicia {
+        top: 0;
+        opacity: 1
+    }
+
+    #PrimeLocation .PrimeLocationCards {
+        margin-top: 100px
+    }
+
+    #location {
+        padding: 0 0;
+        height: auto;
+        padding-bottom: 50px
+    }
+
+    #location .mobilemap {
+        margin-bottom: 30px
+    }
+
+    #header {
+        width: 100%;
+        top: 0
+    }
+}
+
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:portrait) {
+    .row {
+        margin: 0
+    }
+
+    #header {
+        padding: 0
+    }
+
+    #header .annualreportBt {
+        display: none
+    }
+
+    #header .logo {
+        margin: auto;
+        margin-left: 0
+    }
+
+    .five-cols .col-sm-2 {
+        width: 100%
+    }
+
+    .common-ttle,
+    .common-ttle2 {
+        font-size: 32px;
+        font-family: 'FuturaBook !important'
+    }
+
+    #welcome {
+        padding: 40px 0
+    }
+
+    #welcome .welcome-inner {
+        padding: 30px 0
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.retailBox {
+        left: 162px;
+        top: 192px;
+        width: 460px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.retailBox span {
+        right: 113px;
+        bottom: 0
+    }
+
+    #MasterLayout .container {
+        z-index: 9999
+    }
+
+    #MasterLayout .MasterLayoutList {
+        overflow: visible;
+        top: 30px;
+        left: -190px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.clubhouseBox {
+        right: 179px;
+        top: 75px;
+        width: 146px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.clubhouseBox span {
+        right: 13px;
+        bottom: 18px;
+        background-color: var(--brown)
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted span {
+        transform: scale(.7)
+    }
+
+    #MasterLayout .MasterLayoutList ul li {
+        margin-bottom: 10px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.SixAcreBox {
+        right: 130px;
+        top: -115px;
+        width: 460px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.SixAcreBox span {
+        right: 229px;
+        bottom: 100px;
+        background-color: var(--gold)
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.LeisureBox {
+        right: 192px;
+        top: -71px;
+        width: 187px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.LeisureBox span {
+        right: 82px;
+        bottom: 135px;
+        background-color: #47b3d5
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox {
+        right: -32px;
+        top: -120px;
+        width: 109px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox .wellness-zone2 {
+        right: 404px;
+        top: 64px;
+        width: 196px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox {
+        left: 153px;
+        top: -7px;
+        width: 459px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox .wellness-zone3 {
+        right: 635px;
+        top: -58px;
+        width: 132px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox .wellness-zone3 span {
+        right: 66px;
+        bottom: 23px;
+        background-color: #51a090
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox .explorationBox3 {
+        right: 126px;
+        top: -68px;
+        width: 18px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox .explorationBox2 {
+        right: 326px;
+        top: -82px;
+        width: 21px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox .explorationBox1 {
+        right: 226px;
+        top: -51px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox span {
+        left: 63px;
+        bottom: 54px;
+        background-color: #b18767
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox span {
+        right: 40px;
+        bottom: 38px;
+        background-color: #51a090
+    }
+
+    #MasterLayout .MasterLayoutList ul {
+        width: 230px;
+        transform: translate(0, 50px)
+    }
+
+    #MasterLayout .MasterLayout-bg {
+        top: -290px;
+        transform: scale(.5);
+        left: 41%
+    }
+
+    #MasterLayout {
+        height: 590px
+    }
+
+    #projectHilight .projectHilightList .projectHilight1,
+    #projectHilight .projectHilightList .projectHilight2 {
+        margin-top: 0;
+        display: flex;
+        gap: 20px
+    }
+
+    #MasterLayout .MasterLayout-bg span {
+        transform: translateX(-47%)
+    }
+
+    #projectHilight .projectHilightList .projectHilightLCards {
+        width: 50%
+    }
+
+    #nav-Wellness {
+        background-color: #47b3d5
+    }
+
+    #nav-Leisure {
+        background-color: #51a090
+    }
+
+    #nav-Exploration {
+        background-color: #b18767
+    }
+
+    #nav-Grand {
+        background-color: #c59a5b
+    }
+
+    #header .navbar a::after {
+        color: #FFF
+    }
+
+    #towers {
+        padding: 40px 0
+    }
+
+    #iconic,
+    #location {
+        height: auto
+    }
+
+    #iconic .container {
+        padding: 50px 0
+    }
+
+    #location {
+        padding: 40px 0;
+        padding-top: 0
+    }
+
+    .moreInfromation-wrp .moreInfromation-rhs {
+        padding: 50px 80px
+    }
+
+    #header .navbar .menu-items {
+        margin-left: -60px;
+        z-index: 9999;
+        position: relative
+    }
+
+    #header .navbar a {
+        color: var(--White)
+    }
+
+    #header .navbar a::after {
+        color: #FFF
+    }
+
+    #header .navbar .menu-items li {
+        font-size: 1.1rem;
+        font-weight: 500;
+        margin-right: 2rem;
+        padding: 18px 0;
+        border-bottom: solid 1px rgb(255 255 255 / .5)
+    }
+
+    #footer {
+        padding: 50px 0;
+        text-align: center
+    }
+
+    .prescon {
+        width: 90px;
+        margin: auto;
+        margin-bottom: 20px
+    }
+
+    .getintouchRight2 {
+        padding: 30px 20px
+    }
+
+    #thankyou {
+        padding-top: 150px
+    }
+
+    #thankyou .thankyouLeft {
+        padding: 0 150px;
+        padding-bottom: 80px
+    }
+
+    #footer .socialLink {
+        margin: auto;
+        margin-top: 30px;
+        width: 240px;
+        margin-bottom: 30px
+    }
+
+    #footer .Privacy {
+        text-align: center
+    }
+
+    .swipemore {
+        display: none
+    }
+
+    #towers .towerDetails {
+        text-align: center;
+        padding-top: 30px
+    }
+
+    #header .NavRight .EnquireNow {
+        display: none
+    }
+
+    #header .hoh-logo {
+        margin-left: 7px;
+        padding-top: 12px
+    }
+
+    .infoNos .nos {
+        font-size: 25px
+    }
+
+    .infoNos .nos .cr {
+        font-size: 16px
+    }
+
+    #Heartland .Heartlandinfo {
+        padding: 0 0
+    }
+
+    p {
+        font-size: 16px
+    }
+
+    #PrimeLocation {
+        padding: 50px 0
+    }
+
+    #PrimeLocation .PrimeLocationCards {
+        margin-top: 90px
+    }
+
+    #PrimeLocation .PrimeLocationCards p {
+        margin-top: -40px
+    }
+
+    #location .locationmap {
+        position: relative;
+        right: 0;
+        top: 0;
+        margin-bottom: 30px
+    }
+
+    #location .map-lines {
+        width: 100%
+    }
+
+    #iconic {
+        background-color: var(--brown)
+    }
+
+    #iconic .iconic-bg {
+        position: relative
+    }
+
+    #Amenities {
+        padding: 50px 0
+    }
+
+    #Amenities .artfulLHS {
+        padding-left: 40px;
+        margin-bottom: 30px
+    }
+
+    #footer .HeadOffice {
+        transform: translate(0, 0)
+    }
+
+    #get-in-touch {
+        height: auto;
+        padding-top: 40px
+    }
+
+    #get-in-touch .get-in-touch-wrp .get-in-touch-LHS img {
+        width: 100%
+    }
+
+    #get-in-touch .get-in-touch-wrp .get-in-touch-LHS {
+        height: auto;
+        margin-top: 10px
+    }
+
+    #footer .Disclaimer p {
+        padding-left: 0
+    }
+
+    #magical {
+        height: auto
+    }
+
+    #magical .iconic-bg {
+        position: relative
+    }
+
+    #magical .magical_inner {
+        height: auto;
+        width: 100%;
+        height: auto
+    }
+
+    #magical {
+        background-color: var(--gold)
+    }
+
+    #magical .magical_inner {
+        margin-top: 0;
+        padding: 20px
+    }
+
+    #magical .container {
+        display: block;
+        padding-top: 0
+    }
+
+    #magical .iconic-bg .image-label {
+        bottom: 20px;
+        right: 20px
+    }
+
+    #banner .container .banner-Content h5 {
+        font-size: 21px
+    }
+
+    #banner .marsk-layer.active {
+        border-width: 20px 20px 20px
+    }
+
+    #banner .container .banner-Content h4 {
+        font-size: 40px
+    }
+
+    #Heartland {
+        padding: 50px 0
+    }
+
+    #Heartland .Heartland-lhs {
+        height: 630px
+    }
+
+    #location .mobilemap {
+        margin-bottom: 30px
+    }
+
+    #banner {
+        background-color: var(--brown)
+    }
+
+    #banner::before {
+        opacity: .7
+    }
+
+    #header {
+        top: 0
+    }
+
+    #banner .marsk-layer {
+        display: none
+    }
+
+    #banner .belicia {
+        top: 0;
+        opacity: 1
+    }
+}
+
+@media (min-width:320px) and (max-width:767px) {
+
+    .getintouchRight2 .login-box .user-box input,
+    .getintouchRight2 .login-box .user-box textarea,
+    .getintouchRight2 .login-box .user-box select {
+        font-size: 14px
+    }
+
+    #magical .iconic-bg .image-label {
+        bottom: 20px;
+        right: 10px
+    }
+
+    #footer .HeadOffice p {
+        margin-bottom: 0
+    }
+
+    .row {
+        margin: 0
+    }
+
+    #header .annualreportBt {
+        display: none
+    }
+
+    #header .logo img {
+        margin: auto;
+        margin-left: 0
+    }
+
+    .common-ttle,
+    .common-ttle2 {
+        font-size: 24px !important;
+        line-height: 36px !important;
+        font-family: 'FuturaBook !important'
+    }
+
+    #location .nav-tabs .nav-link {
+        font-size: 11px
+    }
+
+    #header .navbar a::after {
+        color: #FFF
+    }
+
+    .getintouchRight2 {
+        padding: 20px 10px
+    }
+
+    .popupImg img {
+        object-fit: cover;
+        width: 100%
+    }
+
+    .getintouchRight .login-box .user-box input,
+    .getintouchRight .login-box .user-box textarea,
+    .getintouchRight .login-box .user-box select {
+        margin-bottom: 10px
+    }
+
+    .btn-close {
+        opacity: 1;
+        border-radius: 0;
+        width: 12px;
+        height: 30px
+    }
+
+    #header .NavRight {
+        display: none
+    }
+
+    #header .navbar .menu-items li {
+        margin-right: 1rem
+    }
+
+    #banner .container .banner-Content h3,
+    #banner .container .banner-Content h4 {
+        font-size: 24px
+    }
+
+    #banner .belicia img {
+        width: 190px
+    }
+
+    #banner .container .banner-Content {
+        padding: 0 10px;
+        padding-bottom: 180px
+    }
+
+    #banner .scroll-downs {
+        position: absolute;
+        right: 20px;
+        bottom: 50px
+    }
+
+    #Heartland {
+        padding: 0 0 23px
+    }
+
+    .pr40 {
+        padding-right: 0
+    }
+
+    .infoNos .nos {
+        font-size: 28px
+    }
+
+    #Heartland .Heartland-lhs {
+        margin-top: 50px
+    }
+
+    #location .nav-tabs {
+        margin-top: 41px
+    }
+
+    #PrimeLocation {
+        padding: 40px 0;
+        padding-bottom: 0
+    }
+
+    #PrimeLocation .PrimeLocationLHS {
+        margin-bottom: 80px
+    }
+
+    .ament__bdr {
+        border-top: 4px solid var(--White)
+    }
+
+    #PrimeLocation .PrimeLocationCards {
+        margin-bottom: 80px
+    }
+
+    #location .map-lines {
+        width: auto;
+        margin-bottom: 30px
+    }
+
+    #location {
+        height: auto
+    }
+
+    #location .nav-tabs {
+        width: 100%;
+        flex-wrap: nowrap;
+        overflow: scroll;
+        overflow-y: hidden
+    }
+
+    #location .locationList li {
+        padding-left: 18px
+    }
+
+    #location .nav-tabs .nav-link::before {
+        bottom: 13px
+    }
+
+    #iconic {
+        height: auto;
+        background-color: var(--brown)
+    }
+
+    #iconic .container {
+        padding-bottom: 50px
+    }
+
+    #towers {
+        padding: 10px 0
+    }
+
+    #towers nav .nav-link {
+        padding: 10px 15px
+    }
+
+    #towers .towerDetails {
+        padding: 30px 0
+    }
+
+    #towers nav {
+        margin: 40px 0
+    }
+
+    #towers .towerDetails h2 {
+        font-size: 24px
+    }
+
+    #Amenities {
+        padding: 30px 0
+    }
+
+    #Amenities .artfulLHS {
+        padding: 0 20px
+    }
+
+    .common-ttle {
+        padding-top: 35px
+    }
+
+    #Amenities .artfulLHS .common-ttle br {
+        display: none
+    }
+
+    #Amenities .artfulLHS .image-counter {
+        font-size: 14px;
+        margin-top: 15px
+    }
+
+    #get-in-touch {
+        padding-top: 30px
+    }
+
+    #get-in-touch .get-in-touch-wrp .get-in-touch-RHS .common-ttle {
+        font-size: 26px
+    }
+
+    #get-in-touch {
+        height: auto
+    }
+
+    .prescon {
+        width: 100px;
+        margin: auto;
+        margin-bottom: 20px
+    }
+
+    #footer .houseofhiranandani-logo {
+        margin-top: 20px
+    }
+
+    .Disclaimer {
+        margin-top: 0
+    }
+
+    #footer .houseofhiranandani-logo {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+
+    #banner .marsk-layer.active {
+        border-width: 20px 20px 20px
+    }
+
+    #magical .magical_inner {
+        height: auto
+    }
+
+    #magical {
+        background-color: var(--gold)
+    }
+
+    #magical .magical_inner {
+        margin-top: 0;
+        padding: 20px 5px
+    }
+
+    #magical .container {
+        display: block;
+        padding-top: 0
+    }
+
+    #banner .container .banner-Content h5 {
+        font-size: 17px;
+        line-height: 27px
+    }
+
+    .mobilemap {
+        margin-bottom: 30px
+    }
+
+    #location .mobilemap {
+        margin-top: 0
+    }
+
+    #iconic .container {
+        position: relative
+    }
+
+    .accordion-body {
+        padding: 1rem 0rem
+    }
+
+    #magical .iconic-bg img {
+        height: 300px
+    }
+
+    #footer .HeadOffice {
+        transform: translate(0, 0)
+    }
+
+    #footer .Privacy {
+        text-align: center
+    }
+
+    #footer .Disclaimer p {
+        padding-left: 0
+    }
+
+    #banner {
+        background-color: var(--brown)
+    }
+
+    #banner::before {
+        opacity: .7;
+        height: 60%
+    }
+
+    #header {
+        top: 0
+    }
+
+    #banner .marsk-layer {
+        display: none
+    }
+
+    #banner .belicia {
+        top: 0;
+        opacity: 1
+    }
+
+    #banner .container .banner-Content h4 {
+        margin: 13px 0;
+        line-height: 30px
+    }
+
+    #location .scroll-left,
+    #location .scroll-right {
+        display: block
+    }
+
+    #footer .prescon {
+        margin-top: 0
+    }
+}
+
+@media only screen and (min-device-width:1024px) and (max-device-width:1024px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio:2) {
+    #thankyou {
+        padding-top: 60px
+    }
+
+    #thankyou .thankyouLeft {
+        padding: 0 50px;
+        padding-bottom: 80px
+    }
+
+    .row {
+        margin: 0
+    }
+
+    #header {
+        padding: 0
+    }
+
+    #header .annualreportBt {
+        display: none
+    }
+
+    #header .logo {
+        margin: auto;
+        margin-left: 0
+    }
+
+    .five-cols .col-sm-2 {
+        width: 100%
+    }
+
+    .common-ttle,
+    .common-ttle2 {
+        font-size: 34px;
+        font-family: 'FuturaBook !important'
+    }
+
+    #welcome {
+        padding: 40px 0
+    }
+
+    #welcome .welcome-inner {
+        padding: 30px 0
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.retailBox {
+        left: 162px;
+        top: 192px;
+        width: 460px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.retailBox span {
+        right: 113px;
+        bottom: 0
+    }
+
+    #MasterLayout .container {
+        z-index: 9999
+    }
+
+    #MasterLayout .MasterLayoutList {
+        overflow: visible;
+        left: -350px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.clubhouseBox {
+        right: 276px;
+        top: 75px;
+        width: 156px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.clubhouseBox span {
+        right: 3px;
+        bottom: 9px;
+        background-color: var(--brown)
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted span {
+        transform: scale(.7)
+    }
+
+    #MasterLayout .MasterLayoutList ul li {
+        margin-bottom: 10px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.SixAcreBox {
+        right: 227px;
+        top: -103px;
+        width: 450px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.SixAcreBox span {
+        right: 229px;
+        bottom: 110px;
+        background-color: var(--gold)
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.LeisureBox {
+        right: 274px;
+        top: -96px;
+        width: 217px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.LeisureBox span {
+        right: 92px;
+        bottom: 145px;
+        background-color: #47b3d5
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox {
+        right: 61px;
+        top: -108px;
+        width: 79px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox .wellness-zone3 {
+        right: 635px;
+        top: -73px;
+        width: 132px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox .wellness-zone2 {
+        right: 414px;
+        top: 44px;
+        width: 196px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox {
+        left: 291px;
+        top: -7px;
+        width: 473px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox span {
+        right: 20px;
+        bottom: 28px;
+        background-color: #51a090
+    }
+
+    #MasterLayout .MasterLayoutList ul {
+        width: 230px
+    }
+
+    #MasterLayout .MasterLayout-bg {
+        top: -270px;
+        transform: scale(.6)
+    }
+
+    #MasterLayout {
+        height: 590px
+    }
+
+    #projectHilight .projectHilightList .projectHilight1,
+    #projectHilight .projectHilightList .projectHilight2 {
+        margin-top: 0;
+        display: flex;
+        gap: 20px
+    }
+
+    #projectHilight .projectHilightList .projectHilightLCards {
+        width: 50%
+    }
+
+    #nav-Wellness {
+        background-color: #47b3d5
+    }
+
+    #nav-Leisure {
+        background-color: #51a090
+    }
+
+    #nav-Exploration {
+        background-color: #b18767
+    }
+
+    #nav-Grand {
+        background-color: #c59a5b
+    }
+
+    #header .navbar a::after {
+        color: #FFF
+    }
+
+    #towers {
+        padding: 40px 0
+    }
+
+    #iconic,
+    #location {
+        height: auto
+    }
+
+    #iconic .container {
+        padding: 50px 0
+    }
+
+    #location {
+        padding: 40px 0
+    }
+
+    .moreInfromation-wrp .moreInfromation-rhs {
+        padding: 50px 80px
+    }
+
+    #header .navbar .menu-items {
+        margin-left: -60px;
+        z-index: 9999;
+        position: relative
+    }
+
+    #header .navbar a {
+        color: var(--White)
+    }
+
+    #header .navbar a::after {
+        color: #FFF
+    }
+
+    #header .navbar .menu-items li {
+        font-size: 1.1rem;
+        font-weight: 500;
+        margin-right: 2rem;
+        padding: 18px 0;
+        border-bottom: solid 1px rgb(255 255 255 / .5)
+    }
+
+    #footer {
+        padding: 50px 0
+    }
+
+    .getintouchRight2 {
+        padding: 30px 20px
+    }
+
+    .navbar {
+        opacity: .95
+    }
+
+    .navbar-container input[type="checkbox"],
+    .navbar-container .hamburger-lines {
+        display: block
+    }
+
+    .navbar-container {
+        display: block;
+        position: relative;
+        height: 64px
+    }
+
+    .navbar-container input[type="checkbox"] {
+        position: absolute;
+        display: block;
+        height: 32px;
+        width: 30px;
+        top: 20px;
+        right: 20px;
+        z-index: 5;
+        opacity: 0;
+        cursor: pointer
+    }
+
+    .navbar-container .hamburger-lines {
+        display: block;
+        height: 24px;
+        width: 33px;
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        z-index: 2;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between
+    }
+
+    .navbar-container .hamburger-lines .line {
+        display: block;
+        height: 2px;
+        width: 100%;
+        border-radius: 10px;
+        background: #c59a5b
+    }
+
+    .navbar-container .hamburger-lines .line1 {
+        transform-origin: 0% 0%;
+        transition: transform 0.3s ease-in-out
+    }
+
+    .navbar-container .hamburger-lines .line2 {
+        transition: transform 0.2s ease-in-out
+    }
+
+    .navbar-container .hamburger-lines .line3 {
+        transform-origin: 0% 100%;
+        transition: transform 0.3s ease-in-out
+    }
+
+    .navbar .menu-items {
+        padding-top: 30px;
+        background: #c89f63;
+        height: 100vh;
+        max-width: 300px;
+        transform: translate(-150%);
+        display: flex;
+        flex-direction: column;
+        margin-left: -40px;
+        padding-left: 0;
+        transition: transform 0.5s ease-in-out;
+        overflow: hidden
+    }
+
+    .navbar .menu-items li {
+        font-size: 1.1rem;
+        font-weight: 500;
+        margin-right: 2rem;
+        padding: 18px 0;
+        border-bottom: solid 1px rgb(255 255 255 / .5)
+    }
+
+    .logo {
+        position: absolute;
+        top: 10px;
+        font-size: 2.5rem
+    }
+
+    .navbar-container input[type="checkbox"]:checked~.menu-items {
+        transform: translateX(0)
+    }
+
+    .navbar-container input[type="checkbox"]:checked~.hamburger-lines .line1 {
+        transform: rotate(45deg)
+    }
+
+    .navbar-container input[type="checkbox"]:checked~.hamburger-lines .line2 {
+        transform: scaleY(0)
+    }
+
+    .navbar-container input[type="checkbox"]:checked~.hamburger-lines .line3 {
+        transform: rotate(-45deg)
+    }
+
+    #header .navbar-container {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center
+    }
+
+    #header .navbar-container .hamburger-lines {
+        display: block;
+        height: 24px;
+        width: 33px;
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        z-index: 2;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between
+    }
+
+    #header .navbar-container input[type=checkbox] {
+        position: absolute;
+        display: block;
+        height: 32px;
+        width: 30px;
+        top: 20px;
+        right: 20px;
+        z-index: 5;
+        opacity: 0;
+        cursor: pointer
+    }
+
+    #footer .HeadOffice {
+        text-align: center
+    }
+
+    #footer .socialLink {
+        margin: auto;
+        padding-bottom: 18px;
+        margin-top: 20px
+    }
+
+    #towers .towerDetails {
+        padding: 0 10px
+    }
+
+    #footer .HeadOffice,
+    #footer .maharera .Rus__MahaRERA {
+        text-align: left
+    }
+
+    #banner {
+        background-color: var(--brown)
+    }
+
+    #banner::before {
+        opacity: .7;
+        height: 60%
+    }
+
+    #header {
+        top: 0
+    }
+
+    #banner .marsk-layer {
+        display: none
+    }
+
+    #banner .belicia {
+        top: 0;
+        opacity: 1
+    }
+
+    #banner video#bgvid {
+        opacity: 0
+    }
+
+    #footer .HeadOffice {
+        transform: translate(50px, 0)
+    }
+}
+
+@media only screen and (min-device-width:1366px) and (max-device-width:1366px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:2) {
+    #magical {
+        height: 680px
+    }
+
+    #get-in-touch {
+        height: auto;
+        padding: 40px 0
+    }
+
+    .row {
+        margin: 0
+    }
+
+    #header {
+        padding: 0
+    }
+
+    #header .annualreportBt {
+        display: none
+    }
+
+    #header .logo {
+        margin: auto;
+        margin-left: 0
+    }
+
+    .five-cols .col-sm-2 {
+        width: 100%
+    }
+
+    .common-ttle,
+    .common-ttle2 {
+        font-size: 34px;
+        font-family: 'FuturaBook !important'
+    }
+
+    #welcome {
+        padding: 40px 0
+    }
+
+    #welcome .welcome-inner {
+        padding: 30px 0
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.retailBox {
+        left: 162px;
+        top: 192px;
+        width: 460px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.retailBox span {
+        right: 113px;
+        bottom: 0
+    }
+
+    #MasterLayout .container {
+        z-index: 9999
+    }
+
+    #MasterLayout .MasterLayoutList {
+        overflow: visible;
+        left: -440px;
+        top: 50px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.clubhouseBox {
+        right: 266px;
+        top: 73px;
+        width: 166px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.clubhouseBox span {
+        right: 3px;
+        bottom: 9px;
+        background-color: var(--brown)
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted span {
+        transform: scale(.7)
+    }
+
+    #MasterLayout .MasterLayoutList ul li {
+        margin-bottom: 10px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.SixAcreBox {
+        right: 237px;
+        top: -117px;
+        width: 460px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.SixAcreBox span {
+        right: 179px;
+        bottom: 80px;
+        background-color: var(--gold)
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.LeisureBox {
+        right: 304px;
+        top: -74px;
+        width: 187px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.LeisureBox span {
+        right: 72px;
+        bottom: 115px;
+        background-color: #47b3d5
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox .wellness-zone2 {
+        right: 407px;
+        top: 73px;
+        width: 206px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox .wellness-zone3 {
+        right: 650px;
+        top: -55px;
+        width: 132px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox .wellness-zone3 span {
+        right: 76px;
+        bottom: 23px;
+        background-color: #51a090
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox .wellness-zone2 span {
+        right: 143px;
+        bottom: 70px;
+        background-color: #51a090
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox {
+        left: 394px;
+        top: 27px;
+        width: 517px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox span {
+        left: 140px;
+        bottom: 70px;
+        background-color: #b18767
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox .explorationBox1 {
+        right: 147px;
+        top: -51px;
+        width: 28px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox .explorationBox2 {
+        right: 363px;
+        top: -64px;
+        width: 18px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.explorationBox .explorationBox3 {
+        right: 262px;
+        top: -25px;
+        width: 38px;
+        position: absolute
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox {
+        right: 51px;
+        top: -122px;
+        width: 109px
+    }
+
+    #MasterLayout .MasterLayoutList .highlighted.WelnessBox span {
+        right: 20px;
+        bottom: 28px;
+        background-color: #51a090
+    }
+
+    #MasterLayout .MasterLayoutList ul {
+        width: 230px
+    }
+
+    #MasterLayout .MasterLayout-bg {
+        top: -270px;
+        transform: scale(.6)
+    }
+
+    #MasterLayout {
+        height: 590px
+    }
+
+    #projectHilight .projectHilightList .projectHilight1,
+    #projectHilight .projectHilightList .projectHilight2 {
+        margin-top: 0;
+        display: flex;
+        gap: 20px
+    }
+
+    #projectHilight .projectHilightList .projectHilightLCards {
+        width: 50%
+    }
+
+    #nav-Wellness {
+        background-color: #47b3d5
+    }
+
+    #nav-Leisure {
+        background-color: #51a090
+    }
+
+    #nav-Exploration {
+        background-color: #b18767
+    }
+
+    #nav-Grand {
+        background-color: #c59a5b
+    }
+
+    #header .navbar a::after {
+        color: #FFF
+    }
+
+    #towers {
+        padding: 40px 0
+    }
+
+    #iconic {
+        height: 700px;
+        display: flex
+    }
+
+    #location {
+        height: auto
+    }
+
+    #iconic .container {
+        padding: 50px 0
+    }
+
+    #location {
+        padding: 40px 0
+    }
+
+    .moreInfromation-wrp .moreInfromation-rhs {
+        padding: 50px 80px
+    }
+
+    #header .navbar .menu-items {
+        margin-left: -60px;
+        z-index: 9999;
+        position: relative
+    }
+
+    #header .navbar a {
+        color: var(--White)
+    }
+
+    #header .navbar a::after {
+        color: #FFF
+    }
+
+    #header .navbar .menu-items li {
+        font-size: 1.1rem;
+        font-weight: 500;
+        margin-right: 2rem;
+        padding: 18px 0;
+        border-bottom: solid 1px rgb(255 255 255 / .5)
+    }
+
+    #footer {
+        padding: 50px 0
+    }
+
+    .getintouchRight2 {
+        padding: 30px 20px
+    }
+
+    .navbar {
+        opacity: .95
+    }
+
+    .navbar-container input[type="checkbox"],
+    .navbar-container .hamburger-lines {
+        display: block
+    }
+
+    .navbar-container {
+        display: block;
+        position: relative;
+        height: 64px
+    }
+
+    .navbar-container input[type="checkbox"] {
+        position: absolute;
+        display: block;
+        height: 32px;
+        width: 30px;
+        top: 20px;
+        right: 20px;
+        z-index: 5;
+        opacity: 0;
+        cursor: pointer
+    }
+
+    .navbar-container .hamburger-lines {
+        display: block;
+        height: 24px;
+        width: 33px;
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        z-index: 2;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between
+    }
+
+    .navbar-container .hamburger-lines .line {
+        display: block;
+        height: 2px;
+        width: 100%;
+        border-radius: 10px;
+        background: #c59a5b
+    }
+
+    .navbar-container .hamburger-lines .line1 {
+        transform-origin: 0% 0%;
+        transition: transform 0.3s ease-in-out
+    }
+
+    .navbar-container .hamburger-lines .line2 {
+        transition: transform 0.2s ease-in-out
+    }
+
+    .navbar-container .hamburger-lines .line3 {
+        transform-origin: 0% 100%;
+        transition: transform 0.3s ease-in-out
+    }
+
+    .navbar .menu-items {
+        padding-top: 30px;
+        background: #c89f63;
+        height: 100vh;
+        width: 300px;
+        transform: translate(-150%);
+        display: flex;
+        flex-direction: column;
+        margin-left: -40px;
+        padding-left: 0;
+        transition: transform 0.5s ease-in-out;
+        overflow: hidden
+    }
+
+    .navbar .menu-items li {
+        font-size: 1.1rem;
+        font-weight: 500;
+        margin-right: 2rem;
+        padding: 18px 0;
+        border-bottom: solid 1px rgb(255 255 255 / .5)
+    }
+
+    .logo {
+        position: absolute;
+        top: 10px;
+        font-size: 2.5rem
+    }
+
+    .navbar-container input[type="checkbox"]:checked~.menu-items {
+        transform: translateX(0)
+    }
+
+    .navbar-container input[type="checkbox"]:checked~.hamburger-lines .line1 {
+        transform: rotate(45deg)
+    }
+
+    .navbar-container input[type="checkbox"]:checked~.hamburger-lines .line2 {
+        transform: scaleY(0)
+    }
+
+    .navbar-container input[type="checkbox"]:checked~.hamburger-lines .line3 {
+        transform: rotate(-45deg)
+    }
+
+    #header .navbar-container {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center
+    }
+
+    #header .navbar-container .hamburger-lines {
+        display: block;
+        height: 24px;
+        width: 33px;
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        z-index: 2;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between
+    }
+
+    #header .navbar-container input[type=checkbox] {
+        position: absolute;
+        display: block;
+        height: 32px;
+        width: 30px;
+        top: 20px;
+        right: 20px;
+        z-index: 5;
+        opacity: 0;
+        cursor: pointer
+    }
+
+    #header .navbar .menu-items {
+        margin-left: -140px
+    }
+
+    #header .hoh-logo {
+        padding-top: 10px
+    }
+
+    #header .NavRight .EnquireNow {
+        padding-top: 16px
+    }
+
+    #banner {
+        background-color: var(--brown)
+    }
+
+    #banner::before {
+        opacity: .7;
+        height: 60%
+    }
+
+    #header {
+        top: 0
+    }
+
+    #banner .marsk-layer {
+        display: none
+    }
+
+    #banner .belicia {
+        top: 0;
+        opacity: 1
+    }
+
+    #banner video#bgvid {
+        opacity: 0
+    }
+}
+
+@media (max-width:768px) {
+    #header .logo img {
+        width: 100px;
+        height: auto;
+        margin-left: 0;
+        padding: 0 0;
+        display: block
+    }
+}
+
+@media screen and (max-width:991px) {
+    .systemnumbercontainer h1 {
+        font-size: 35px
+    }
+
+    #Paymentplan .systempercenttext {
+        color: #fff;
+        display: grid !important;
+        grid-template-columns: 1fr 1fr
+    }
+
+    #Paymentplan .inner-systematicplan {
+        padding: 10px 23px 45px
+    }
+
+    .systembg {
+        background-color: var(--gold);
+        color: #ffffff !important;
+        margin: 5px;
+        padding: 10px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        flex-direction: column
+    }
+
+    .systempercenttextmob .systemmobtext {
+        font-size: 17px
+    }
+
+    #Paymentplan {
+        position: relative;
+        padding: 20px 0 3px
+    }
+
+    .sysrightborder {
+        border-right: unset !important
+    }
+
+    #Paymentplan .systempercenttext {
+        padding: unset;
+        background-color: unset
+    }
+}
